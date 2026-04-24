@@ -126,4 +126,4 @@ O gradiente de uso antrópico utilizado no gráfico é conceitual e semi-quantit
 ---
 # Gradiente de Uso Antrópico e Diversidade da Paisagem
 
-![Preview](img.gif/gradiente_com_escala_J.gif)
+![Preview](img/gradiente_com_escala_J.gif)
