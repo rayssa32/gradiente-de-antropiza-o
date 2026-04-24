@@ -124,3 +124,6 @@ O gradiente de uso antrópico utilizado no gráfico é conceitual e semi-quantit
 - Adaptar o gráfico para R, utilizando o pacote `ggplot2`.
 
 ---
+# Gradiente de Uso Antrópico e Diversidade da Paisagem
+
+![Preview](img.gif/gradiente_com_escala_J.gif)
